@@ -2,7 +2,7 @@
 name = "pwdf"
 version = "0.1.1"
 authors = ["reon <reonreon3reon@gmail.com>"]
-edition = "2021"
+edition = "2024"
 
 description = "join current path with given path"
 
@@ -16,4 +16,4 @@ categories = ["shell"]
 license = "MIT"
 
 [dependencies]
-anyhow = { version = "1.0.68", features = ["backtrace"] }
+anyhow = { version = "1.0.100", features = ["backtrace"] }
